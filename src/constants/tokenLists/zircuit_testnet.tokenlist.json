@@ -1,0 +1,36 @@
+{
+  "name": "Zircuit Testnet Tokens",
+  "timestamp": "2024-02-22T16:10:18.339Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tokens": [
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1628852295",
+      "chainId": 48899,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/1/thumb/bitcoin.png?1696501400",
+      "chainId": 48899,
+      "address": "0x0C8C73C735C9768e0911B7152F3f88Fffcab5Ea4",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "decimals": 8
+    },
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694",
+      "chainId": 48899,
+      "address": "0xd35f0a4C44A12E6f6D50c0f6a511ADCE35f2CF63",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6
+    }
+  ],
+  "logoURI": "ipfs://"
+}
