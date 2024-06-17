@@ -30,6 +30,14 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6
+    },
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
+      "chainId": 48899,
+      "address": "0x2b533475875b518144c2Cf8558d799BC6FB11716",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6
     }
   ],
   "logoURI": "ipfs://"
