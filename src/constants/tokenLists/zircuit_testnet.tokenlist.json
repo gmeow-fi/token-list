@@ -38,6 +38,14 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6
+    },
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
+      "chainId": 48899,
+      "address": "0x156563d6bA40F03480A40AEa7F91392F7974C9F9",
+      "name": "PAW",
+      "symbol": "PAW",
+      "decimals": 6
     }
   ],
   "logoURI": "ipfs://"
