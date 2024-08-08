@@ -14,6 +14,14 @@
         "name": "Wrapped Ether",
         "symbol": "WETH",
         "decimals": 18
+      },
+      {
+        "logoURI": "https://raw.githubusercontent.com/gmeow-fi/token-list/main/img/zircuit/assets/0xC03EA4A8fbA397C48695F1AcFBAdFd9528C3CF7A/logo.png",
+        "chainId": 48900,
+        "address": "0xC03EA4A8fbA397C48695F1AcFBAdFd9528C3CF7A",
+        "name": "Maid Token",
+        "symbol": "MAID",
+        "decimals": 18
       }
     ],
     "logoURI": "ipfs://"
