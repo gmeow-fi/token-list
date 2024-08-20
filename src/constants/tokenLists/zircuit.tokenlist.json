@@ -22,6 +22,14 @@
         "name": "Maid Token",
         "symbol": "MAID",
         "decimals": 18
+      },
+      {
+        "logoURI": "https://assets.coingecko.com/coins/images/35960/large/zircuit.png?1711719103",
+        "chainId": 48900,
+        "address": "0xfd418e42783382E86Ae91e445406600Ba144D162",
+        "name": "Zircuit",
+        "symbol": "ZRC",
+        "decimals": 18
       }
     ],
     "logoURI": "ipfs://"
