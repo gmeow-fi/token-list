@@ -1,6 +1,6 @@
 {
     "name": "Zircuit Tokens",
-    "timestamp": "2024-08-01T16:10:18.339Z",
+    "timestamp": "2024-011-01T16:10:18.339Z",
     "version": {
       "major": 1,
       "minor": 0,
@@ -21,6 +21,14 @@
         "address": "0xC03EA4A8fbA397C48695F1AcFBAdFd9528C3CF7A",
         "name": "Maid Token",
         "symbol": "MAID",
+        "decimals": 18
+      },
+      {
+        "logoURI": "https://assets.coingecko.com/coins/images/35960/large/zircuit.png?1711719103",
+        "chainId": 48900,
+        "address": "0xfd418e42783382E86Ae91e445406600Ba144D162",
+        "name": "Zircuit",
+        "symbol": "ZRC",
         "decimals": 18
       },
       {
