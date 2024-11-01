@@ -22,6 +22,38 @@
         "name": "Maid Token",
         "symbol": "MAID",
         "decimals": 18
+      },
+      {
+        "logoURI": "https://raw.githubusercontent.com/gmeow-fi/token-list/main/img/zircuit/assets/0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742/logo.png",
+        "chainId": 48900,
+        "address": "0x46dDa6a5a559d861c06EC9a95Fb395f5C3Db0742",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6
+      },
+      {
+        "logoURI": "https://raw.githubusercontent.com/gmeow-fi/token-list/main/img/zircuit/assets/0x19df5689Cfce64bC2A55F7220B0Cd522659955EF/logo.png",
+        "chainId": 48900,
+        "address": "0x19df5689Cfce64bC2A55F7220B0Cd522659955EF",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8
+      },
+      {
+        "logoURI": "https://raw.githubusercontent.com/gmeow-fi/token-list/main/img/zircuit/assets/0x3535DF6e1d776631D0cBA53FE9efD34bCbDcEeD4/logo.png",
+        "chainId": 48900,
+        "address": "0x3535DF6e1d776631D0cBA53FE9efD34bCbDcEeD4",
+        "name": "Wrapped eETH",
+        "symbol": "weETH",
+        "decimals": 18
+      },
+      {
+        "logoURI": "https://raw.githubusercontent.com/gmeow-fi/token-list/main/img/zircuit/assets/0xf0e673Bc224A8Ca3ff67a61605814666b1234833/logo.png",
+        "chainId": 48900,
+        "address": "0xf0e673Bc224A8Ca3ff67a61605814666b1234833",
+        "name": "Wrapped Liquid Staked ETH",
+        "symbol": "wstETH",
+        "decimals": 18
       }
     ],
     "logoURI": "ipfs://"
